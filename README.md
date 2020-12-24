@@ -1,21 +1,21 @@
 # Nyani
 This repo is giving information of the Nyani community project. 
 
-#Fundamental Pillars
+# Fundamental Pillars
 Transparency
 Co-Ownership
 Scalability
 
 
-#Transparency
+# Transparency
 Being able to see the financials of all other communities
 
-#Co-ownership
+# Co-ownership
 Mutual ownership between communities 
 
-#Scalability
+# Scalability
 Can be applied into any framework globally.
 
-#Governance
+# Governance
 
-#FAQ
+# FAQ
