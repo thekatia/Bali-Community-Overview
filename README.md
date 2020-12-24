@@ -34,6 +34,8 @@ Sept 2021 - Bamboo Festivals
 300,000(30%) community tokens for Nyani in exchange for 1 year of land lease and $300,000
 700,000(70%) community tokens to be sold, distributed and allocated
 
+**Community Tokens**
+
 # Frequently Asked Questions(General)
 **Who started this project?**  
 The project was a collection of visions and ideas by a group of forward thinking visionarys, given the opportunity to collaborate by Sergey Solonin, a serial entreprenuer and investor, who moved to Bali in Jan 2020.
@@ -100,7 +102,7 @@ Yes, with guidelines set by the community.
 
 
 **Is it safe?**
-Yes. 
+Yes. We are working to ensure safety measures are best put in place. 
 
 
 **Is there a school? What about kids?**
@@ -110,53 +112,55 @@ The goal is to set up a school with a similar cooperative ownership model.
 **What are the guidelines for the communities setting up?**
 The guidelines are above. 
 
-Will the community be required to build accomadation themeselves or will it be set up?
+**Will the community be required to build accomadation themeselves or will it be set up?**
+The community will be building accomadation to support 30 to 50 people. 
+
+**What kind of connections or collaborations will the communities have with one another?**
+This is to be decided by the communities, though the motivation of the experiment is to show how collaboration leads to greater success than working as an individual entity.
+
+**What stake does Nyani have in each of the community projects?**
+Nyani holds a 30% stake, and receives a monthly rent of $10k after 1 year. 
+
+**How big is the land size for each community?**
+0.3 hectares of the total 1.5 hectares, allocated for the community village experiment
 
 
-What kind of connections or collaborations will the communities have with one another?
+**Will it be filmed? Showcased to the world?**
+Yes. The plan is for netflix to film a documentary starting May, until September for the Bamboo festival. With the hope to continue showcasing this afterwards. 
+
+**What is the motivation for the community?**
+The intention for the community is to explore and showcase how community living and collaborative ownership leads to a stronger success than working individually. 
+
+**How long is the building for?**
+The plan is for building to begin in Feb 2021, and be completed in May 2021, and continue to be built, improved and expanded upon.
+
+**Can the community buildings be sub-leased? sub-contracted? or sold?**
+This is to determined by the community, with understand that it fits within the overall framework of the nyani project.
+
+**Is this similar to burning man?**
+This is inspired by many of the principle, experiences and motivations of the burning man community. 
+
+**How will the problems be solved amongst the communities?**
+This is the to be established within a mutually agreed framework to be improved over time. 
+
+**Who is going to govern dispute amongst communities?**
+This is the to be established within a mutually agreed framework to be improved over time. 
 
 
-What stake does Nyani have in each of the community projects?
- 
-
-How big is the land size for each community?
+**Will community have certain legal safety?**
+Yes. This is shown clearly and transparently for all parties to be protected. 
 
 
-Will it be filmed?
+**What are the legal risk?**
+The approach of this project is to ensure that all stakeholders and parties are protected, and following all rules/laws to ensure the optimal result for all.
 
 
-What is the motivation and intention for the community?
+**Will the participants need a working permit/kitas to be part of the project?**
+Ideally, all participants will have a KITAS and working permit to be participants in the project. 
 
 
-How long is the building for?
+**What are the facilities to be set up?**
+Accomadation, shared space, working space. All other facillities are to be determined by the community. 
 
-
-Can the community buildings be sub-leased? or sold?
-
-
-Is this similar to burning man?
-
-
-How will the problems be solved amongst the communities?
-
-
-Who is going to govern dispute amongst communities?
-
-
-
-Will community have certain legal safety?
-
-
-
-What are the legal risk?
-
-
-
-Will it need a working permit/kitas to be part of the project?
-
-
-
-What are the facilities to be set up?
-
-
-Is there going to be prize for the experiment?
+**Is there going to be prize for the experiment?**
+This is yet to be established. Currently there is no prize, apart from the experience and mutual benefit for all. 
