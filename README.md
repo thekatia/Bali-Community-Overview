@@ -23,15 +23,15 @@ Hive - Ryan Allis
 Zest - Baptiste Sejourne  
 
 # Timeline
-Dec 2020 - Communities arranged
-Jan 2021 - Framework, plan and documentation put in place
-Feb 2021 - Building begins
-May 2021 - Filming begins for production  
+Dec 2020 - Communities arranged  
+Jan 2021 - Framework, plan and documentation put in place  
+Feb 2021 - Building begins  
+May 2021 - Filming begins for production   
 Sept 2021 - Bamboo Festivals
 
 # Community Guidelines
-1,000,000(100%) of community tokens issued for each communnity(HIVE, BLOOM, UVT)
-300,000(30%) community tokens for Nyani in exchange for 1 year of land lease and $300,000
+1,000,000(100%) of community tokens issued for each communnity(HIVE, BLOOM, UVT)  
+300,000(30%) community tokens for Nyani in exchange for 1 year of land lease and $300,000  
 700,000(70%) community tokens to be sold, distributed and allocated
 
 **Community Tokens**
