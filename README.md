@@ -1,30 +1,42 @@
 # Nyani
-This gives information of the Nyani community project.
+Nyani is community project with the intention of a global community, and living in harmony with nature. 
+
+# Why
+Community living is going to make the world a better place. We belive that this experiement is going to show the future for a better society for all. 
 
 # Fundamental Pillars
-Transparency  
-Co-Ownership    
-Scalability 
+Transparency - Open financials of all communities.   
+Co-Ownership - Mutual ownership between communities.  
+Scalability - Applied to any framework globally.  
+   
+# Vision
+New kind of co-living and community that can scalable for the world.    
+   
+# Nyani Community Experiment
+The experiment is putting together 5 communities, working collectively and individually for the mutual success. 
+   
+# Community Village
+Hive - Ryan Allis  
+Unit - Michael Healy     
+Bali Bloom -  Joe Che
+Nyani - Sergey Solonin
+Zest - Baptiste Sejourne  
 
-# Transparency
-Being able to see the financials of all other communities.    
+# Frequently Asked Questions
+Who started this project?
 
-# Co-ownership
-Mutual ownership between communities.  
 
-# Scalability
-Can be applied into any framework globally.  
+Why are we doing this?
 
-# Governance
-The governance and decision-making is decided by the community.  
 
-# Village
-Hive  
-Unit  
-Nyani   
-Bali Bloom  
-Zest  
+How are these communities selected?
 
-# FAQ
-Community not receive for the land, receive the time. 
+
+How are these communities governed?
+
+
+How many people will live in these communities?
+
+
+What are the timelines for this community experiment?
 
