@@ -17,45 +17,64 @@ The experiment is putting together 5 communities, working collectively and indiv
    
 # Community Village
 Hive - Ryan Allis  
-Unit - Michael Healy     
-Bali Bloom -  Joe Che  
-Nyani - Sergey Solonin  
+[Unit](https://github.com/Nyani-Project/Unit-Village) - Michael Healy     
+[Bali Bloom](https://github.com/Nyani-Project/Bali-Bloom) -  Joe Che  
+[Nyani](https://github.com/Nyani-Project/Nyani-Village) - Sergey Solonin  
 Zest - Baptiste Sejourne  
 
-# Frequently Asked Questions
-Who started this project?  
+# Timeline
+Dec 2020 - Communities arranged
+Jan 2021 - Framework, plan and documentation put in place
+Feb 2021 - Building begins
+May 2021 - Filming begins for production  
+Sept 2021 - Bamboo Festivals
 
+# Frequently Asked Questions(General)
+Who started this project?  
+The project was a collection of visions and ideas by a group of forward thinking visionarys, given the opportunity to collaborate by Sergey Solonin, a serial entreprenuer and investor, who moved to Bali in Jan 2020.
+
+Where is this?  
+The project is located in Nyani on the island of bali, Indonesia.
+
+How big the the total land size?  
+42 acres.
+
+
+# Frequently Asked Questions(Communities)
 
 Why are we doing this?  
-
+We want to showcase that living with community, cooperative ownership and collaboration is the key to a better world, and solves major issues from mental health to wealth inequity.  
 
 How are these communities selected?  
-
+These communities are selected due to the people in their community being mission-driven, and having the vision of creating a better world using the principles and missions of the project. 
 
 How are these communities governed?  
-
+The individual communities will decide the governing framework which helps in deciding what is the operating framework, as well as what is optimal with the community. This will be clearly and transparently shown to all those in the ecosystem. 
 
 How many people will live in these communities?  
-
+The goal is for each community to sustainably support 30 to 50 people.
 
 What are the timelines for this community experiment?  
+The timeline is shown above. 
 
 
-Who is living in the village? And why?
+Who is living in the village? And why?  
+The community members are decided by the community leadership, with a transparent selection framework. They are living there in order to be part of a showcase for the future economy. 
 
 
-How much does it cost for the community?
+How much does it cost for the community?  
+The community pays $10k monthly and 30% of total tokens issued to Nyani, in exchange for 300k USD and 0.3 hectares of land.
 
 
-How much does it cost for the community members?
+How much does it cost for the community members?  
+This is decided by the community, and involves a combination of work and payment.
 
 
+How long are the communities there for?  
+The goal is have the community be based there indefinitely. 
 
-How long are the communities there for?
-
-
-How long does each member need to stay there for?
-
+How long does each member need to stay there for?  
+The goal is that each community member is based there long-term.  
 
 Can I bring my family? dog?
 
@@ -72,10 +91,8 @@ Can people leave the commmunity?
 Is it safe?
 
 
-Where is it located?
 
-
-Is there a school?
+Is there a school? What about kids?
 
 
 What are the guidelines for the communities setting up?
@@ -88,10 +105,7 @@ What kind of connections or collaborations will the communities have with one an
 
 
 What stake does Nyani have in each of the community projects?
-
-
-How big is the land size?
-
+ 
 
 How big is the land size for each community?
 
