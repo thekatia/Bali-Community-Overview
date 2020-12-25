@@ -1,5 +1,5 @@
-# Nyani
-Nyani is community project with the intention of a global community, and living in harmony with nature. 
+# Bali Community
+Bali Community is community project with the intention of a global community, and living in harmony with nature. 
 
 # Why
 Community living is going to make the world a better place. We belive that this experiement is going to show the future for a better society for all. 
@@ -12,14 +12,14 @@ Scalability - Applied to any framework globally.
 # Vision
 New kind of co-living and community that can scalable for the world.    
    
-# Nyani Community Experiment
+# Bali Community Experiment
 The experiment is putting together 5 communities, working collectively and individually for the mutual success. 
    
 # Community Village
 Hive - Ryan Allis  
 [Unit](https://github.com/Nyani-Project/Unit-Village) - Michael Healy     
 [Bali Bloom](https://github.com/Nyani-Project/Bali-Bloom) -  Joe Che  
-[Nyani](https://github.com/Nyani-Project/Nyani-Village) - Sergey Solonin  
+Ombak - Sergey Solonin  
 Zest - Baptiste Sejourne  
 
 # Timeline
@@ -31,7 +31,7 @@ Sept 2021 - Bamboo Festivals
 
 # Community Guidelines
 1,000,000(100%) of community tokens issued for each communnity(HIVE, BLOOM, UVT)  
-300,000(30%) community tokens for Nyani in exchange for 1 year of land lease and $300,000  
+300,000(30%) community tokens for Bali Community in exchange for 1 year of land lease and $300,000  
 700,000(70%) community tokens to be sold, distributed and allocated
 
 **Community Tokens**
@@ -41,7 +41,8 @@ Sept 2021 - Bamboo Festivals
 The project was a collection of visions and ideas by a group of forward thinking visionarys, given the opportunity to collaborate by Sergey Solonin, a serial entreprenuer and investor, who moved to Bali in Jan 2020.
 
 **Where is this?**
-The project is located in Nyani on the island of bali, Indonesia.
+The project is located in Bali Community
+on the island of bali, Indonesia.
 
 **How big the the total land size?**
 42 acres.
